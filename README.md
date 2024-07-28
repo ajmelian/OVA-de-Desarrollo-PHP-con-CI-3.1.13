@@ -56,7 +56,7 @@ La configuración de Apache está preparada para servir el proyecto desde el dir
 
 ### PHP
 
-La OVA incluye PHP 8.3 con las extensiones necesarias para ejecutar CodeIgniter y otras aplicaciones web comunes. Si necesitas instalar extensiones adicionales, puedes hacerlo usando `apt-get`.
+La OVA incluye PHP 8.3 con las extensiones necesarias para ejecutar CodeIgniter y otras aplicaciones web comunes. Si necesitas instalar extensiones adicionales, puedes hacerlo usando `apt`.
 
 ```bash
 sudo apt  install php-<extension>
