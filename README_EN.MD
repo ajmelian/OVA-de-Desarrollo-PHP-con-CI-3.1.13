@@ -56,7 +56,7 @@ Apache is configured to serve the project from the `/var/www/html` directory. It
 
 ### PHP
 
-The OVA includes PHP 8.3 with the necessary extensions to run CodeIgniter and other common web applications. If you need to install additional extensions, you can do so using `apt-get`.
+The OVA includes PHP 8.3 with the necessary extensions to run CodeIgniter and other common web applications. If you need to install additional extensions, you can do so using `apt`.
 
 ```bash
 sudo apt install php-<extension>
