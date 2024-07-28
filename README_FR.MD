@@ -57,7 +57,7 @@ Apache est configuré pour servir le projet depuis le répertoire `/var/www/html
 
 ### PHP
 
-L'OVA inclut PHP 8.3 avec les extensions nécessaires pour exécuter CodeIgniter et d'autres applications web courantes. Si vous devez installer des extensions supplémentaires, vous pouvez le faire en utilisant `apt-get`.
+L'OVA inclut PHP 8.3 avec les extensions nécessaires pour exécuter CodeIgniter et d'autres applications web courantes. Si vous devez installer des extensions supplémentaires, vous pouvez le faire en utilisant `apt`.
 
 ```bash
 sudo apt install php-<extension>
